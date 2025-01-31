@@ -1,8 +1,8 @@
-# MERN Stack Project: Build and Deploy a Real Time Chat App | JWT, Socket.io
+# Chit Chat is a chat app that connects users seamlessly!
 
-![Demo App](https://i.ibb.co/fXmZdnz/Screenshot-10.png)
-
-[Video Tutorial on Youtube](https://youtu.be/HwCqsOis894)
+![Chat Interface](./frontend/src/assets/images/chatInterface.png)
+![Login Page](./frontend/src/assets/images/chatInterface.png)
+![Sign Up Page](./frontend/src/assets/images/chatInterface.png)
 
 Some Features:
 
@@ -12,7 +12,6 @@ Some Features:
 -   🚀 Online user status (Socket.io and React Context)
 -   👌 Global state management with Zustand
 -   🐞 Error handling both on the server and on the client
--   ⭐ At the end Deployment like a pro for FREE!
 -   ⏳ And much more!
 
 ### Setup .env file
