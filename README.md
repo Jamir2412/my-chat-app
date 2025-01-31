@@ -1,8 +1,8 @@
 # Chit Chat is a chat app that connects users seamlessly!
 
 ![Chat Interface](./frontend/src/assets/images/chatInterface.png)
-![Login Page](./frontend/src/assets/images/chatInterface.png)
-![Sign Up Page](./frontend/src/assets/images/chatInterface.png)
+![Login Page](./frontend/src/assets/images/loginInterface.png)
+![Sign Up Page](./frontend/src/assets/images/signUpInterface.png)
 
 Some Features:
 
