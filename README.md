@@ -4,7 +4,7 @@
 ![Login Page](./frontend/src/assets/images/loginInterface.png)
 ![Sign Up Page](./frontend/src/assets/images/signUpInterface.png)
 
-[Visit App](https://my-chat-app-caeg.onrender.com/)
+<a href="https://my-chat-app-caeg.onrender.com/" target="_blank" rel="noopener noreferrer">Visit App</a
 
 Some Features:
 
